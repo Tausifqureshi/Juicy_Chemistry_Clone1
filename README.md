@@ -6,13 +6,6 @@ A web application for skin remedial products.
 ## Run Project : http://juicy-chemistry-clone1.vercel.app/
 
 
-## Team Members
-
- - Kajal 
- - Pavan Pulli
- - Sudeep
- - Umesh
- - Iqbal
  
  ## Tech Stacks
 
