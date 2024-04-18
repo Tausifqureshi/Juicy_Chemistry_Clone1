@@ -50,3 +50,9 @@ Just Clone the Project and Run Index.html File to see output
 #Product Page
 
 ![App Screenshot](https://miro.medium.com/max/1400/1*gleqls3__-E3SX86T42YPw.png)
+
+
+
+## Authors
+
+- [@Tausif Qureshi](https://github.com/Tausifqureshi)
